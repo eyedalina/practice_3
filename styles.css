@@ -14,7 +14,7 @@ h1 {
     background-color: #ffb1ff;
     font-family: "Helvetica";
     padding: 30px 80px;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: normal;
   }
 
@@ -25,6 +25,7 @@ h1 {
   ul {
     background-color: #ffb1ff;  
     padding: 30px 80px;
+    border-top: 3px solid white;
   }
 
   li {
@@ -62,11 +63,11 @@ h1 {
 
   .text_about {
     color: rgb(0, 0, 0);
-    font-size: 60px;
+    font-size: 50px;
     font-family: "Helvetica";
     font-weight: 300;
-    padding: 80px 80px;
-    line-height: 85px;
+    padding: 100px 80px;
+    line-height: 75px;
     font-weight: normal;
   }
 
